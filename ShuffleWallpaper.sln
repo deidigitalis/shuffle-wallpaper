@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShuffleWallpaper", "ShuffleWallpaper\ShuffleWallpaper.csproj", "{AEF62D7A-381F-4801-B043-6FD00747033B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15CE1D36-C8EE-485D-85BA-BBC5927A2607}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A678161E-43E4-4DBB-A209-75F0CE783009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF62D7A-381F-4801-B043-6FD00747033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF62D7A-381F-4801-B043-6FD00747033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF62D7A-381F-4801-B043-6FD00747033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF62D7A-381F-4801-B043-6FD00747033B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A678161E-43E4-4DBB-A209-75F0CE783009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A678161E-43E4-4DBB-A209-75F0CE783009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A678161E-43E4-4DBB-A209-75F0CE783009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A678161E-43E4-4DBB-A209-75F0CE783009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {442D32E4-33FB-4AF9-AABB-156C62EEDA62}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShuffleWallpaper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"%USERPROFILE%\\Pictures\\ShuffleWallpaper\""
+    }
+  }
+}
